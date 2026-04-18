@@ -47,5 +47,5 @@ A full-stack web application that converts and compresses images into PNG format
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/jiya52/png-converter.git
+git clone https://github.com/mepremparmar/png-converter.git
 cd png-converter
